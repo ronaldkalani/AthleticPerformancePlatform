@@ -1,4 +1,3 @@
-# AthleticPerformancePlatform
 # Athletic Performance Platform
 
 ## Overview
